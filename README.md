@@ -3,7 +3,7 @@
 
 ## What is Changepoint Detection?
 
-Changepoint Detection put simply, takes some data in the form of a timeseries and as the name suggests detects events in the data.
+> Changepoint Detection put simply, takes some data in the form of a timeseries and as the name suggests detects events in the data.
 
 ## Why is it useful?
 
