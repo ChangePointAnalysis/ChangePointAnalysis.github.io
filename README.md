@@ -20,3 +20,12 @@ This repo has been set up to contain information regarding Changepoint Detection
 -  Books
 -  Packages
 -  Notebooks
+
+
+> # Papers
+
+> # Books
+
+> # Packages
+
+> # Notebooks
