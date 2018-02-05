@@ -13,5 +13,5 @@ Changepoint detection algorithms do not require any prior knowledge of the times
 
 This repo has been set up to contain information regarding Changepoint Detection/Analysis scraped from the web. To include papers, packages and notebooks that can be used by beginners to experts with an interest in Changepoint.
 
-
+[View Content](https://changepointanalysis.github.io/Downloads "Changepoint Analysis Content")
 
